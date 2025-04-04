@@ -98,6 +98,6 @@ gr1_b <- c(23.1, 12.2, 34.5, 27.2, 15.5, 26.2, 30.2, 9.5, 8.5, 10, 11.2, 27.5, 1
 gr2_a <- c(28.0, 38.0, 39.0, 32.0, 31.0, 27.0, 26.0, 26.0, 24.0, 23.0, 19.0, 12.0, 22.0, 16.0, 22.0, 20.0, 17.0, 27.0, 16.0, 17.0, 18.0, 15.0, 17.0, 14.0, 15.0, 11.0, 14.0, 8.0, 5.0, 4.0)
 gr2_b <- c(10,5,11,4,5,6,3,3,11,12,13,10,8,9,15,24,22,24,22,16,22,23,20,24,18,16,13,14,11,14)
 
-#1. Czy dlugosc najdluzszej osi, posredniej osi i najkrotszej osi rozni sie istotnie dla zbiorów grupy 1 i 2? (odpowiedz w oparciu o analize par zbiorow)
+#1. Czy dlugosc najdluzszej osi (osi a) rozni sie istotnie dla par zbiorów 1 i 2 oraz 3 i 4?  
 #2. Jaka jest korelacja miedzy dlugoscia poszczegolnych osi w zbiorze Twojej grupy?
 ####Odpowiedz na powyzsze pytania wykorzystujac odpowiednie metody statystyczne. Funkcje przydatne do wykonania zadan: shapiro.test(), var.test(), t.test() (zwroc uwage na ustawienie parametru var.equal!), wilcox.test(), cor(), cor.test() (zarowno przy cor, jak i przy cor test zwroc uwage na ustawienie parametru method)
